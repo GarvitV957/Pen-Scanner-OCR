@@ -18,14 +18,14 @@
 
 // REPLACE WITH YOUR NETWORK CREDENTIALS
 
-char ssid[] = "aamirr";
-char password[] = "123456789";
+char ssid[] = "Enter_username";
+char password[] = "Enter_password";
 
 // To send Email using Gmail use port 465 (SSL) and SMTP Server smtp.gmail.com
 // YOU MUST ENABLE less secure app option https://myaccount.google.com/lesssecureapps?pli=1
-#define emailSenderAccount    "inteliqo.iq@gmail.com"    
-#define emailSenderPassword   "Amil.sheen16"
-#define emailRecipient        "amir.butt12@gmail.com"  
+#define emailSenderAccount    "Sender's account"    
+#define emailSenderPassword   "Sender's password"
+#define emailRecipient        "Recepient account"  
 #define smtpServer            "smtp.gmail.com"
 #define smtpServerPort         465 //587 //465
 #define emailSubject          "ESP32_SndPicture"
