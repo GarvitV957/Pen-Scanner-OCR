@@ -1,6 +1,6 @@
 # Pen-Scanner-OCR
 
-**A prototype which scans the printed and written text and save it in google doc.
+## A prototype which scans the printed and written text and save it in google doc. Also converts the text to real-time speech in multiple languages.
 
 ### Products used : FTDI programmer, ESP32 cam, typeA cable and speaker;
 
